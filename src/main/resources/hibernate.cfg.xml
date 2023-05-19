@@ -12,9 +12,7 @@
     <property name="hibernate.hbm2ddl.auto">create-drop</property>
     <!-- 2nd level cache configuration-->
     <!--<property name="hibernate.cache.use_second_level_cache">true</property>
-    <property name="h:wq
-
-    ibernate.cache.region.factory_class">com.hazelcast.hibernate.HazelcastCacheRegionFactory</property>
+    <property name="hibernate.cache.region.factory_class">com.hazelcast.hibernate.HazelcastCacheRegionFactory</property>
     <property name="hibernate.cache.use_query_cache">true</property>
     <property name="hibernate.cache.use_minimal_puts">true</property>-->
 
